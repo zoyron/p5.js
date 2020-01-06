@@ -72,6 +72,7 @@
     "grunt-simple-nyc": "^3.0.1",
     "husky": "^0.14.3",
     "i18next": "^19.0.2",
+    "i18next-browser-languagedetector": "^4.0.1",
     "karma": "^4.4.1",
     "karma-benchmark": "^1.0.4",
     "karma-benchmark-reporter": "^0.1.1",
